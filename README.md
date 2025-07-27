@@ -17,7 +17,6 @@ I'm **Shashank**, an IT professional with **2 years and 8 months** of experience
 ## 🛠️ Skills & Tools
 
 - 🖥️ Windows Server | Active Directory | Group Policy
-- ☁️ Azure Fundamentals | AWS Cloud Basics
 - 🛠️ ITSM Tools: ServiceNow, BMC Remedy
 - 💡 Ticketing, SLA Management, Remote Desktop Support
 - 🧰 Virtualization: VirtualBox | Hyper-V
@@ -27,8 +26,7 @@ I'm **Shashank**, an IT professional with **2 years and 8 months** of experience
 ## 🌱 Currently Learning
 
 - Windows Server Domain Services Lab
-- Microsoft Azure & AWS Cloud Fundamentals
-- Linux Essentials (LPI)
+- Linux Fundamentals & Essentials (LPI)
 
 ---
 
